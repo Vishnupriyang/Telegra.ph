@@ -1,1 +1,1 @@
-worker: python3 vptelegraph.py
+worker: python3 mediatotelegraphlink.py
