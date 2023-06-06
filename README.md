@@ -42,6 +42,5 @@ To generate links in group chats, add this bot to your group and send the comman
 
 - You are free to use this code in any of your projects, but you MUST include the following in your README.md (Copy & paste)
 ```
-##Credits
-- [MediaToTelegraphLink bot by TeLe TiPs] (https://github.com/Vishnupriyang/Telegra.ph)
-```
+
+
