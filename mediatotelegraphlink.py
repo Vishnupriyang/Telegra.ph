@@ -27,7 +27,7 @@ To generate links in **group chats**, add me to your supergroup and send the com
 
 🙏 | [Home](https://t.me/vpvpofficial)
             """
-    await vptelegraph.send_message(message.chat.id, text, disable_web_page_preview=True)
+    await teletips.send_message(message.chat.id, text, disable_web_page_preview=True)
     
 
 @teletips.on_message(filters.media & filters.private)
